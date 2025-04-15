@@ -58,3 +58,4 @@ function generateComputerChoice() {
         }       
         resultDisplay.textContent = result; // Update result display
     }
+
